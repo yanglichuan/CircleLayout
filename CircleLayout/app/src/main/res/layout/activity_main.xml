@@ -1,0 +1,112 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    
+    
+    <com.example.administrator.circlelayout.CircleLayout
+        android:layout_width="400dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentTop="true"
+        android:layout_height="400dp">
+
+        <TextView android:text="我"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp"
+            />
+
+        <TextView android:text="是"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp" />
+
+        <TextView android:text="重"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp" />
+
+
+        <TextView android:text="果"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp"/>
+
+
+        <TextView android:text="仁"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp" />
+
+    </com.example.administrator.circlelayout.CircleLayout>
+
+
+
+    <com.example.administrator.circlelayout.CircleLayout
+        android:layout_width="300dp"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:layout_height="300dp">
+
+        <TextView android:text="打"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp"
+            />
+
+        <TextView android:text="死"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp" />
+
+        <TextView android:text="小"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp" />
+
+
+        <TextView android:text="日"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp"/>
+
+
+        <TextView android:text="本"
+            android:background="@drawable/cirlce_db"
+            android:layout_width="90dp"
+            android:gravity="center"
+            android:textColor="#FFF"
+            android:textSize="30sp"
+            android:layout_height="90dp" />
+
+    </com.example.administrator.circlelayout.CircleLayout>
+
+</RelativeLayout>
